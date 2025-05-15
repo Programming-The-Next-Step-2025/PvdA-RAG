@@ -1,1 +1,1 @@
-from .rag import *
+from .rag import answer_question
